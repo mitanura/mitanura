@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mitanura
+- 👋 Hi, I’m Anuradha Mitra
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Data Analysis Projects in Marketing fiels
